@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 62.5%;
+    background-color: #2222;
+    color: #fff;
+}
+p{
+    color: green;
+    text-transform: uppercase;
+}
